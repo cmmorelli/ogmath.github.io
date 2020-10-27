@@ -11,14 +11,14 @@ html {
 }
 
 body {
-      color: #ced3d9;
-        font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+      color: #5c91ae;
+        font-family: "Ubuntu Mono";
           font-size: 12px;
             line-height: 1.7;
               padding: 1em;
                 margin: auto;
                   max-width: 42em;
-                    background: #282c35;
+                    background: #242424;
                     
 }
 

@@ -11,10 +11,11 @@
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <link rel="stylesheet" href="pandoc1.css" />
+  <link rel="stylesheet" href="pandoc.css" />
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?"></script>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu+Mono" />
 </head>
 <body>
 <h2 id="exponent-rules">Exponent Rules</h2>
@@ -50,19 +51,19 @@
 </blockquote>
 <h6 id="examples-1">Examples</h6>
 <ol type="1">
-<li><p>Given: <span class="math inline">\(\left(2x^{3}\right)^2\)</span> apply the <code>power rule of a product rule</code> to simplify the expression.</p>
+<li>Given: <span class="math inline">\(\left(2x^{3}\right)^2\)</span> apply the <code>power rule of a product rule</code> to simplify the expression.</li>
+</ol>
 <details>
 <summary>Show/Hide Solution</summary>
-<p></li>
-</ol>
+<p>
 <p><span class="math display">\[\begin{align*}
   \left(2x^3\right)^2 &amp;=&amp; \\ 
   &amp;= \left(2^{1 \cdot 2}x^{3 \cdot 2}\right) \textrm{ Distribute multiply exponents.}\\ 
   &amp;= 2^2x^6 \\
   &amp;= 4x^6 \textrm{ } \blacksquare
 \end{align*}\]</span></p>
-<pre><code>&lt;/p&gt;
-&lt;/details&gt;</code></pre>
+</p>
+</details>
 <h3 id="power-of-a-quotient">Power of a Quotient</h3>
 <h6 id="general-rule">General Rule</h6>
 <p><span class="math display">\[\left(\frac{a}{b} \right )^m = \frac{a^m}{b^m}\]</span></p>

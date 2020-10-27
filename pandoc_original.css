@@ -12,7 +12,7 @@ html {
 
 body {
       color: #444;
-        font-family: 'Ubuntu Mono';
+        font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
           font-size: 12px;
             line-height: 1.7;
               padding: 1em;
@@ -97,6 +97,7 @@ h4, h5, h6 {
 
 h1 {
       font-size: 2.5em;
+      
 }
 
 h2 {
@@ -125,12 +126,11 @@ h6 {
 }
 
 blockquote {
-      color: #000;
+      color: #666666;
         margin: 0;
-          padding: 0px 1px 0px 3px;
-            border: 2px powderblue solid;
-              background-color: powderblue;
-	        border-radius: 6px; 
+          padding-left: 3em;
+            border-left: 0.5em #EEE solid;
+            
 }
 
 hr {
@@ -147,7 +147,7 @@ hr {
 pre, code, kbd, samp {
       color: #000;
         font-family: monospace, monospace;
-          font-family: 'courier new', monospace;
+          _font-family: 'courier new', monospace;
             font-size: 0.98em;
                 background-color: #eee;
                     border-radius: 3px;

@@ -15,14 +15,13 @@
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?"></script>
-  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu+Mono" />
 </head>
 <body>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-<p><a href="https://ogmath.com/index.php"><span>🧙🏻</span>OGMATH</a></p>
+<p><a href="https://ogmath.com"><span>🧙🏻</span>OGMATH</a></p>
 <h1 id="morelli-algebra-1-notes">Morelli Algebra 1 Notes</h1>
-<p><a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://www.youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwj6uNnyutXsAhUQ1qwKHQvRCWkQFjAAegQIBBAC&amp;url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fdesmos-test-mode%2Fppkkplnhefiifjmgokbhhjebbddhiipf%3Fhl%3Den&amp;usg=AOvVaw1ukCxSSR2SBmrY9NVnElJR" title="Desmos Test Mode Chrome App Extension">Desmos</a></p>
+<p><a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://www.youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a></p>
 <?php include ('functions.html'); ?>
 <?php include ('index2.php'); ?>
 <details>
@@ -135,7 +134,7 @@ You can rewrite $(a \cdot b + a \cdot c)$ as $a \cdot (b + c)$ by dividing both 
 <h2 id="dedication">Dedication</h2>
 <p><code>This page is dedicated to my students.</code></p>
 <center>
-<a href="https://ogmath.com/index.php"><span>🧙🏻</span>OGMATH</a>
+<a href="https://ogmath.com"><span>🧙🏻</span>OGMATH</a>
 <center>
 </body>
 </html>

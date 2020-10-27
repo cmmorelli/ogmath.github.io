@@ -13,11 +13,11 @@
 pagetitle: OGMATH
 ---
 
-<a href="https://ogmath.com"><span>&#129497;&#127995;</span>OGMATH</a>
+<a href="https://ogmath.com/index.php"><span>&#129497;&#127995;</span>OGMATH</a>
 
-# Morelli Algebra 1 Notes
+# Morelli Algebra 1 Notes 
 
-[Kuta](https://student.works.kutasoftware.com "Kuta Works Student Login") | [YouTube](https://www.youtube.com/c/AthenianStranger "Athenian Stranger YouTube Tutorial Videos")
+[Kuta](https://student.works.kutasoftware.com "Kuta Works Student Login") | [YouTube](https://www.youtube.com/c/AthenianStranger "Athenian Stranger YouTube Tutorial Videos") | [Desmos](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6uNnyutXsAhUQ1qwKHQvRCWkQFjAAegQIBBAC&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fdesmos-test-mode%2Fppkkplnhefiifjmgokbhhjebbddhiipf%3Fhl%3Den&usg=AOvVaw1ukCxSSR2SBmrY9NVnElJR "Desmos Test Mode Chrome App Extension")
 
 <?php include ('functions.html'); ?>
 
@@ -155,4 +155,4 @@ Call or Text me: (903) 480-0086 (parents and/or guardians only)
 
 `This page is dedicated to my students.`
 
-<center><a href="https://ogmath.com"><span>&#129497;&#127995;</span>OGMATH</a><center>
+<center><a href="https://ogmath.com/index.php"><span>&#129497;&#127995;</span>OGMATH</a><center>
