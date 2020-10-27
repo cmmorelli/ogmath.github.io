@@ -11,7 +11,7 @@
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <link rel="stylesheet" href="pandoc.css" />
+  <link rel="stylesheet" href="pandoc1.css" />
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?"></script>
@@ -24,7 +24,7 @@
 <h3 id="power-of-a-product">Power of a Product</h3>
 <h4 id="single-term-in-parentheses">Single Term in Parentheses</h4>
 <h6 id="rule">Rule</h6>
-<p>(a<sup>m)</sup>n=a^{m n}$$</p>
+<p><span class="math display">\[\left(a^m\right)^n=a^{m \cdot n}\]</span></p>
 <blockquote>
 <p>When raising an exponent to another exponent, such as <span class="math inline">\(\left(a^m\right)^n=a^{m \cdot n}\)</span>, you <em>multiply</em> the exponents.</p>
 </blockquote>

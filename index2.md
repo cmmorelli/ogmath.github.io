@@ -14,7 +14,7 @@ pagetitle:Expoonents
 
 ###### Rule
 
-\left(a^m\right)^n=a^{m \cdot n}$$
+$$\left(a^m\right)^n=a^{m \cdot n}$$
 
 > When raising an exponent to another exponent, such as $\left(a^m\right)^n=a^{m \cdot n}$, you *multiply* the exponents.
 
@@ -44,8 +44,8 @@ $$(ab)^c=\left(a^c \cdot b^c\right)$$
 
 1. Given: $\left(2x^{3}\right)^2$ apply the `power rule of a product rule` to simplify the expression.
 
-    <details><summary>Show/Hide Solution</summary>
-    <p>
+<details><summary>Show/Hide Solution</summary>
+<p>
     
 \begin{align*}
   \left(2x^3\right)^2 &=& \\ 
@@ -54,8 +54,8 @@ $$(ab)^c=\left(a^c \cdot b^c\right)$$
   &= 4x^6 \textrm{ } \blacksquare
 \end{align*}
     
-    </p>
-    </details>
+</p>
+</details>
 
 ### Power of a Quotient
 
