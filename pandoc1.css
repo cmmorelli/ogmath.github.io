@@ -130,7 +130,7 @@ blockquote {
         margin: 1;
           padding-left: 3em;
             border-left: 0.5em #EEE solid;
-	    	background-color: lightcyan;
+	    	background-color: lightskyblue;
             	border-radius: 3px;
 }
 
@@ -156,7 +156,7 @@ pre, code, kbd, samp {
 }
 
 code.verb {
-	  background-color: plum;
+	  background-color: lightseagreen;
   }
 
 pre {
