@@ -1,3 +1,7 @@
+---
+pagetitle: Desmos Linear Regression Equation
+---
+
 ## Desmos Linear Regression Equation
 ### What You Will Learn
 * Learn how to find, `slope`, the `y-intercept`, and the slope-intercept form equation of a line ($y=mx+b$) using the <code class="noun">Desmos Linear Regression Equation</code>.
