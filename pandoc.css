@@ -125,7 +125,7 @@ h6 {
 }
 
 blockquote {
-      color: #000;
+      color: #444;
         margin: 0;
           padding: 0px 1px 0px 3px;
             border: 2px powderblue solid;
@@ -144,14 +144,35 @@ hr {
                   
 }
 
-pre, code, kbd, samp {
+pre, code, samp {
       color: #000;
         font-family: monospace, monospace;
           font-family: 'courier new', monospace;
             font-size: 0.98em;
-                background-color: #eee;
-                    border-radius: 3px;
-                        padding: 0 3px;
+              background-color: #eee;
+                border-radius: 3px;
+                  padding: 0 3px;
+}
+
+kbd {
+	color: FloralWhite;
+	  font-family: monospace, monospace;
+	    font-family: 'courier new', monospace;
+	      font-size: 0.98em;
+	        font-weight: bold;
+                  padding: 1px 10px 1px 10px;
+		    background-color: Grey;
+		      border-radius: 2px;
+		        border: 1px solid black;
+}
+
+.alert {
+	background-color: Pink;
+	border: 1px solid black;
+}
+
+.noun {
+	background-color: lightyellow;
 }
 
 pre {
