@@ -12,7 +12,7 @@ pagetitle: Desmos Linear Regression Equation
 * Once in Desmos Test Mode, click the plus sign <kbd>+</kbd> and then click the "Table" option.
 * Enter at least two coordinate pairs.
 * Type this equation on a new link: 
-<kbd>y</kbd> <kbd>1</kbd> <kbd>~</kbd> <kbd>m</kbd> <kbd>1</kbd> <kbd>x</kbd> <kbd>+</kbd> <kbd>b</kbd>
+<kbd>y</kbd> <kbd>1</kbd> <kbd>~</kbd> <kbd>m</kbd> <kbd>x</kbd> <kbd>1</kbd> <kbd>+</kbd> <kbd>b</kbd>
 * The `m` value is the `slope`. The `b` value is the `y-intercept`.
 
 ### How Desmos Shows Undefined & Zero Slopes
