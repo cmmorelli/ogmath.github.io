@@ -52,3 +52,5 @@ You can rewrite $(a \cdot b + a \cdot c)$ as $a \cdot (b + c)$ by dividing both 
 
     <details><summary>Show/Hide Solution</summary>
     <p>
+
+</details>
