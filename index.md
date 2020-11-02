@@ -15,7 +15,15 @@ pagetitle: OGMATH
 
 <a href="https://ogmath.com/index.php"><span>&#129497;&#127995;</span>OGMATH</a>
 
-# Hi Mom!
+<!--- # <code class="alert">Hi Mom!</code>
+
+<details><summary>Click here</summary>
+
+> Congratulations on selling your practice. I am very happy and proud for you. I love you mom! Thank you for all you do for me and for making it possible for me to spend all this time working on a website instead of doing back-breacking work just to pay the rent.
+
+</details>
+--->
+
 
 # Morelli Algebra 1 Notes 
 
@@ -25,7 +33,7 @@ pagetitle: OGMATH
 
 <?php include ('functions.html'); ?>
 
-<?php include ('index2.php'); ?>
+<?php include ('exponents.html'); ?>
 
 <details>
 <summary>Latex</summary>

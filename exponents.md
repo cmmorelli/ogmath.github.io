@@ -1,5 +1,5 @@
 ---
-pagetitle:Expoonents
+pagetitle:Exponents
 ---
 
 ## Exponent Rules
