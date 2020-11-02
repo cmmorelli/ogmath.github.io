@@ -15,6 +15,8 @@ pagetitle: OGMATH
 
 <a href="https://ogmath.com/index.php"><span>&#129497;&#127995;</span>OGMATH</a>
 
+# Hi Mom!
+
 # Morelli Algebra 1 Notes 
 
 [Kuta](https://student.works.kutasoftware.com "Kuta Works Student Login") | [YouTube](https://www.youtube.com/c/AthenianStranger "Athenian Stranger YouTube Tutorial Videos") | [Desmos](https://bit.ly/desmos-test-mode-chrome-app "Desmos Test Mode Chrome App Extension") | [Code](https://ogmath.com/index.md "Markdown File for This Webpage") | [Git](https://github.com/ogmath/ "My GitHub Page")

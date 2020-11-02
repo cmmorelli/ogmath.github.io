@@ -1,26 +1,7 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>OGMATH</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
-  </style>
-  <link rel="stylesheet" href="pandoc.css" />
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?"></script>
-  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu+Mono" />
-</head>
-<body>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <p><a href="https://ogmath.com/index.php"><span>🧙🏻</span>OGMATH</a></p>
+<h1 id="hi-mom">Hi Mom!</h1>
 <h1 id="morelli-algebra-1-notes">Morelli Algebra 1 Notes</h1>
 <p><a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://www.youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://bit.ly/desmos-test-mode-chrome-app" title="Desmos Test Mode Chrome App Extension">Desmos</a> | <a href="https://ogmath.com/index.md" title="Markdown File for This Webpage">Code</a> | <a href="https://github.com/ogmath/" title="My GitHub Page">Git</a></p>
 <?php include ('desmos.html'); ?>
@@ -58,39 +39,39 @@
 <ol type="1">
 <li><p>Given: <span class="math inline">\((4a + 4b)\)</span> factor the expression using the <code>GCF</code>.</p>
 <details>
-<summary>Show/Hide Solution</summary>
+<p><summary>Show/Hide Solution</summary></p>
 <p>
-<span class="math display">\[\begin{align*}
+<p><span class="math display">\[\begin{align*}
          (4a + 4b) &amp;=&amp; \\ 
          &amp;= 4\left(\frac{4a}{4} + \frac{4b}{4}\right) \\ 
          &amp;= 4(a + b)
-     \end{align*}\]</span>
+     \end{align*}\]</span></p>
 </p>
 </details></li>
 <li><p>Given: <span class="math inline">\((21x^4 + 33x^5)\)</span> factor the expression using the <code>GCF</code>.</p>
 <details>
-<summary>Show/Hide Solution</summary>
+<p><summary>Show/Hide Solution</summary></p>
 <p>
-<span class="math display">\[\begin{align*}
+<p><span class="math display">\[\begin{align*}
          (21x^4 + 33x^5) &amp;=&amp; \\
          &amp;= 3x^4\left(\frac{21x^4}{3x^4} + \frac{33x^5}{3x^4}\right) \\
          &amp;= 3x^4\left(\frac{21}{3}x^{4-4} + \frac{33}{3}x^{5-4}\right) \\
          &amp;= 3x^4(7x^0 + 11x^1) \textrm{   Recall }x^0=1\textrm{ and  }x^1=x \therefore \\
          &amp;= 3x^4(7 + 11x)
-     \end{align*}\]</span>
+     \end{align*}\]</span></p>
 </p>
 </details></li>
 <li><p>Given: <span class="math inline">\((5x + 15x^2)\)</span> factor the expression using the <code>GCF</code>.</p>
 <details>
-<summary>Show/Hide Solution</summary>
+<p><summary>Show/Hide Solution</summary></p>
 <p>
-<span class="math display">\[\begin{align*}
+<p><span class="math display">\[\begin{align*}
          (5x + 15x^2) &amp;=&amp; \\
          &amp;= \left(\frac{5x}{5x} + \frac{15x^2}{5x}\right) \\
          &amp;= 5x\left(5^{1-1}x^{1-1} + \frac{15}{5}x^{2-1}\right) \\
          &amp;= 5x\left(5^0x^0 + 3x^1\right) \textrm{   Recall } x^0=1 \textrm{ and  }x^1=x \therefore \\
          &amp;= 5x\left(1 + 3x\right)
-     \end{align*}\]</span>
+     \end{align*}\]</span></p>
 </p>
 </details></li>
 </ol>
@@ -138,5 +119,3 @@ You can rewrite $(a \cdot b + a \cdot c)$ as $a \cdot (b + c)$ by dividing both 
 <center>
 <a href="https://ogmath.com/index.php"><span>🧙🏻</span>OGMATH</a>
 <center>
-</body>
-</html>
