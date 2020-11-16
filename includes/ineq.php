@@ -13,10 +13,12 @@
 			the <code class="noun">domain</code> of, 
 			<code class="verb">solve</code>, and <code class="verb">graph</code> 
 			<i>single variable</i> <b><code class="noun">linear inequalities</code></b>.
-                <h2>TEKS</h2>
+			</details>
+		</p>
 		<div class="teks">
-			<h3>A1.5B</h3>
-                	<blockquote>
+			<h2>TEKS</h2>
+			<details open><summary>A1.5B</summary>
+			<blockquote>
 				<code class="verb">Solve</code> 
 				<code class="noun">linear inequalities</code> 
 				<code class="prep">in <i>one variable</i></code>
@@ -25,6 +27,7 @@
 				is necessary and for which <code class="noun">variables
 				</code> are included <code class= "prep">on both sides</code>.
 			</blockquote>
+			</details>
 		</div>
 	</body>
 </html>
