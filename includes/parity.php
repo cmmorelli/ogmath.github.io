@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<?php include '../header.js';?>
+		<link rel="stylesheet" href="../pandoc.css">
+	</head>
+	<title>
+		Parity
+	</title>
+	<body>
+		<h2>Parity</h2>
+		Basic Idea: You're going to learn how to find 
+		out if variables in your algebra problems are 
+		even integers, odd integers, or non-integers 
+		using things called <code class="noun">parity tests</code>.
+
+		<h3>Before We Begin, A Few Things</h3>
+
+		<code class="noun">Integers</code> can either be even or odd.
+
+	</body>
+</html>
+
+
+
