@@ -14,7 +14,9 @@ pagetitle: OGMATH
 <p>
 <?php error_reporting(E_ALL);?>
 <p>
-<?php include './includes/exponents.html'; ?>
+<?php include './includes/ineq.php';?>
+<p>
+<?php include './includes/exponents.html';?>
 <p>
 <?php include ("./includes/desmos.html");?>
 
