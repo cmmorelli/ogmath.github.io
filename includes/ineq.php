@@ -32,16 +32,19 @@
 		<div class="lesson">
 			<h2>Inequalities Notes</h2>
 			<h3>Defining Symbols</h3>
-				When reading from left to right, 
-				we identify the following inequality 
-				symbols:
-				<p>
-				<ul>
-					<li>\(<\) means "less than" (open circle, arrow to the left)</li>
-					<li>\(>\) means "greater than" (open circle, arrow to the right)</li>
-					<li>\(\leq\) means "less than or equal to" (closed circle, arrow to the left)</li>
-					<li>\(\geq\) means "greater than or equal to" (closed circle, arrow to the right)</li>
-				</ul>
+				<details>
+					<summary>Click here to see notes</summary>
+					When reading from left to right, 
+					we identify the following inequality 
+					symbols:
+					<p>
+					<ul>
+						<li>\(<\) means "less than" (open circle, arrow to the left)</li>
+						<li>\(>\) means "greater than" (open circle, arrow to the right)</li>
+						<li>\(\leq\) means "less than or equal to" (closed circle, arrow to the left)</li>
+						<li>\(\geq\) means "greater than or equal to" (closed circle, arrow to the right)</li>
+					</ul>
+				</details>
 		</div>
 	</body>
 </html>
