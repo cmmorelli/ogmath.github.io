@@ -11,11 +11,11 @@ pagetitle: OGMATH
 [Kuta](https://student.works.kutasoftware.com "Kuta Works Student Login") | [YouTube](https://youtube.com/c/AthenianStranger "Athenian Stranger YouTube Tutorial Videos") | [Desmos](https://bit.ly/desmos-test-mode-chrome-app "Desmos Test Mode Chrome App Extension") | [Code](https://ogmath.com/index.md "Markdown File for This Webpage") | [Git](https://github.com/ogmath/ "My GitHub Page")
 
 <?php ini_set('display_errors',1);?> 
+<p>
 <?php error_reporting(E_ALL);?>
-<?php
-	include './includes/exponents.html';
-?>
-
+<p>
+<?php include './includes/exponents.html'; ?>
+<p>
 <?php include ("./includes/desmos.html");?>
 
 ## Contact Me
