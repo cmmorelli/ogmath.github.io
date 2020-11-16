@@ -175,6 +175,10 @@ kbd {
 	background-color: lightyellow;
 }
 
+.hl {
+	background-color: peachpuff;
+}
+
 pre {
       white-space: pre;
         white-space: pre-wrap;

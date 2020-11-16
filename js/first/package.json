@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "wsl-open": "^2.1.1"
+  }
+}
