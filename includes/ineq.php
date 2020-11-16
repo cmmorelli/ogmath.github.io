@@ -17,7 +17,7 @@
 		</p>
 		<div class="teks">
 			<h2>TEKS</h2>
-			<details open><summary>A1.5B</summary>
+			<details><summary>A1.5B</summary>
 			<blockquote>
 				<code class="verb">Solve</code> 
 				<code class="noun">linear inequalities</code> 
