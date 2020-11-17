@@ -185,11 +185,19 @@ kbd {
 }
 
 .noun {
-	background-color: lightyellow;
+	background-color: PeachPuff;
+}
+
+.verb {
+	background-color: Chartreuse;
+}
+
+.prep {
+	background-color: LightCyan;
 }
 
 .hl {
-	background-color: peachpuff;
+	background-color: Yellow;
 }
 
 pre {
