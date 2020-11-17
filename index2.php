@@ -20,10 +20,10 @@
 		<?php error_reporting(E_ALL);?>
 
 		<!--PHP Includes-->
-		<?php include 
-			'./includes/ineq.php';
-			'./includes/exponents.html';
-			'./includes/desmos.html';
+		<?php 
+			include './includes/ineq.php';
+			include './includes/exponents.html';
+			include './includes/desmos.html';
 		?>
 
 	</body>
