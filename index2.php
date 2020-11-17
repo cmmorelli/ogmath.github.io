@@ -21,7 +21,7 @@
 
 		<!--PHP Includes-->
 		<?php 
-			include './includes/ineq.php';
+			include './includes/ineq.html';
 			include './includes/exponents.html';
 			include './includes/desmos.html';
 		?>
