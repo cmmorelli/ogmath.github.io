@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
         <head>
+                <?php include '../header.js' ?>
+                <link rel="stylesheet" style="text/css"
+                href="../pandoc.css">
         </head>
         <title>Inequalities</title>
         <body>
