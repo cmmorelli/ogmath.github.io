@@ -25,7 +25,7 @@
 
 		<!--PHP Includes-->
 		<?php 
-			include './includes/graph.php';
+			include './includes/graph.html';
 			include './includes/ineq.html';
 			include './includes/parity.html';
 			include './includes/exponents.html';
