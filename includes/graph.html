@@ -12,7 +12,7 @@
 				[function(x) { return x*x-7*x+10;}, -10,10]
 				);
 			var p1 = board.create('point', [2,0], {
-				name: '1st Solution: (2,0)', id: 'B', label:{autoPosition:true, snapToGrid:true}
+				name: '1st Solution: (2,0)', id: 'B', label:{autoPosition:true, , snapSizeX: 1, snapSizeY: 1, snapToGrid:true}
 				});
 			var p2 = board.create('point', [5,0]);
 			var t1 = board.create('text', [2,-4,"The solutions are 2 and 5."]);
