@@ -20,5 +20,19 @@
 				{useMathJax: true
 				});
 		</script>
+		<script>
+			window.MathJax = {
+			tex: {
+			inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+			displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+			packages: ['base', 'ams']
+			},
+			options: {
+			ignoreHtmlClass: 'tex2jax_ignore',
+			processHtmlClass: 'tex2jax_process'
+			}
+			};
+		</script>
+		<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script>
 	</body>
 <html>
