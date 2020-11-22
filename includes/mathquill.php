@@ -23,12 +23,6 @@
 
 	</script>
 	
-	<script>
-		document.getElementById("button").onclick = newFunction() {
-		var newLatex = document.getElementById('latex');
-		document.write(newLatex);
-		}
-	</script>
 			
 			
 
