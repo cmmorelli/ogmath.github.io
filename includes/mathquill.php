@@ -21,7 +21,7 @@
 				  }
 		});
 	
-		var answer = document.getElementById('latex')
+		var answer = document.getElementById('latex').value;
 		if (answer = 1) 
 		{
 		document.write("<b>Good morning</b>")
