@@ -15,7 +15,7 @@
 		
 		<!--Top Links-->
 		
-		<p><a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://bit.ly/desmos-test-mode-chrome-app" title="Desmos Test Mode Chrome App Extension">Desmos</a> | <a href="https://ogmath.com/index.md" title="Markdown File for This Webpage">Code</a> | <a href="https://github.com/ogmath/" title="My GitHub Page">Git</a></p>
+		<p><a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://bit.ly/desmos-test-mode-chrome-app" title="Desmos Test Mode Chrome App Extension">Desmos</a> | <a href="https://ogmath.com/index.md" title="Markdown File for This Webpage">Code</a> | <a href="https://github.com/ogmath/" title="My GitHub Page">Git</a> | <a href="https://jsfiddle.net/user/ogmath/fiddles/" title="JS Fiddle Profile">JSFiddle</a></p> | <a href="https://www.sololearn.com/Profile/20430647" title="SoloLearn Profile">SoloLearn</a> | <a href="https://stackoverflow.com/users/14684037/michael-morelli" title="StackOverflow Profile">Stack</a>
 
 		<!--PHP Error/Warning Debugging Scripts
 		These will only display content if there
