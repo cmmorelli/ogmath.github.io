@@ -4,7 +4,7 @@
 	<?php include "../header.js";?>
     </head>
     <body>
-	<p>Type math here: <input id="math-field"></input></p>
+	<p>Type math here: <span id="math-field"></span></p>
 	<p>LaTeX of what you typed: <span id="latex"></span></p>
 
 	<script>
