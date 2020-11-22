@@ -20,6 +20,10 @@
 						  }
 				  }
 		});
+
+		var check = document.getElementById("latex").value == "4";
+		if (check) { document.write("Hello World!");}
+
 	</script>
     </body>
 </html>
