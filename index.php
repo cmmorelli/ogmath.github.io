@@ -19,6 +19,8 @@
 		</p> 
 
 		<a href="./includes/graph.php" title="Graph Example">Graph Example</a>
+		<p>
+		<a href="./includes/mathquill.php" title="MathQuill Example">MathQuill Example</a>		
 
 		<!--PHP Error/Warning Debugging Scripts
 		These will only display content if there
