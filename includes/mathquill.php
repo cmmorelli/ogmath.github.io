@@ -10,7 +10,7 @@
 	<script>
 		var mathFieldSpan = document.getElementById('math-field');
 		var latexSpan = document.getElementById('latex');
-
+		
 		var MQ = MathQuill.getInterface(2); // for backcompat
 		var mathField = MQ.MathField(mathFieldSpan, {
 		  spaceBehavesLikeTab: true, // configurable
@@ -21,8 +21,7 @@
 				  }
 		});
 
-		var check = document.getElementById("latex").value == "4";
-		if (check) { document.write("Hello World!");}
+		document.write(latexSpan)
 
 	</script>
     </body>
