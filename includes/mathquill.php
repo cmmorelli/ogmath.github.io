@@ -6,7 +6,6 @@
     <body>
 	<p>Type math here: <span id="math-field"></span></p>
 	<p>LaTeX of what you typed: <span id="latex"></span></p>
-	<button onclick="getData();">Get Data</button>
 	<script>
 		var mathFieldSpan = document.getElementById('math-field');
 		var latexSpan = document.getElementById('latex');
@@ -21,11 +20,20 @@
 				  }
 		});
 		
-		function getData(){
-			var a = document.getElementById("math-field").value;
-			alert("Value is: "+a);
+		pan id="answer">x=</span></p>
 
-		}
+<script>
+  var answerSpan = document.getElementById('answer');
+    var answerMathField = MQ.MathField(answerSpan, {
+        handlers: {
+	      edit: function() {
+		              var enteredMath = answerMathField.latex(); // Get entered math in LaTeX format
+			              checkAnswer(enteredMath);
+			            }
+	          }
+	  });
+  </script>
+
 
 	</script>
 	
