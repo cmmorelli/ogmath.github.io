@@ -23,9 +23,14 @@
 	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/1.1.0/jsxgraph.css" />
 
 <!--MathQuill-->
-	<link rel="stylesheet" href="https://ogmath.com/js/mathquill/mathquill.css"/>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="https://ogmath.com/js/mathquill/mathquill.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mathquill/0.10.1/mathquill.css"/> 
+	<script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathquill/0.10.1/mathquill.js"></script>
+	
+	<!-- INFORM  THE LATEST AVERSION INTERFACE WITH THIS CODE   -->
+	        <script>
+	        var MQ = MathQuill.getInterface(2);
+        	</script>
 
 <!--CSS-->
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu+Mono" />
