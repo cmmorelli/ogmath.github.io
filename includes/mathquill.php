@@ -21,8 +21,9 @@
 				  }
 		});
 
-		if (latexSpan == "4") {
-			document.write("Hi");
+		let bob = document.querySelector('#latex');
+		bob.addEventListener('keyup', function (e) {
+			    console.log('Value:', bob.value);
 		}
 
 
