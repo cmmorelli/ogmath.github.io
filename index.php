@@ -18,7 +18,7 @@
 		<p>Student Resources: <a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://bit.ly/desmos-test-mode-chrome-app" title="Desmos Test Mode Chrome App Extension">Desmos</a>
 		</p> 
 
-		<a href="./includes/graph.html" title="Graph Example">Graph Example</a>
+		<a href="./includes/graph.php" title="Graph Example">Graph Example</a>
 
 		<!--PHP Error/Warning Debugging Scripts
 		These will only display content if there
