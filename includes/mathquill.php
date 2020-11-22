@@ -22,7 +22,7 @@
 		});
 	</script>
 
-	<script type="text/javascript">
+	<script async type="text/javascript">
 		var d=new Date()
 		var time=d.getHours()
 		
