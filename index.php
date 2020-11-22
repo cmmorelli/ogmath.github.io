@@ -36,7 +36,7 @@
 		
 		<h2>Contact Me</h2> 
 			<p>
-			<a href="mailto:contact@ogmath.com" title="Email">Email</a> | <a href="https://github.com/ogmath/" title="My GitHub Page">Git</a> | <a href="https://jsfiddle.net/user/ogmath/fiddles/" title="JS Fiddle Profile">JSFiddle</a> | <a href="https://www.sololearn.com/Profile/20430647" title="SoloLearn Profile">SoloLearn</a> | <a href="https://stackoverflow.com/users/14684037/michael-morelli" title="StackOverflow Profile">Stack</a>
+			<a href="mailto:contact@ogmath.com" title="Email">Email</a> | <a href="https://twitter.com/ogmath11" title="Twitter Profile">Twitter</a> | <a href="https://github.com/ogmath/" title="My GitHub Page">Git</a> | <a href="https://jsfiddle.net/user/ogmath/fiddles/" title="JS Fiddle Profile">JSFiddle</a> | <a href="https://www.sololearn.com/Profile/20430647" title="SoloLearn Profile">SoloLearn</a> | <a href="https://stackoverflow.com/users/14684037/michael-morelli" title="StackOverflow Profile">Stack</a>
 			</p>
 
 		<!--Little Wizard-->
