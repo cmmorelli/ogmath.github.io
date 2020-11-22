@@ -6,7 +6,6 @@
     <body>
 	<p>Type math here: <span id="math-field"></span></p>
 	<p>LaTeX of what you typed: <span id="latex"></span></p>
-	<button id="button" onclick="sendEmail()">Confirm</button>
 	<script>
 		var mathFieldSpan = document.getElementById('math-field');
 		var latexSpan = document.getElementById('latex');
@@ -21,10 +20,6 @@
 				  }
 		});
 
-		function sendEmail() {
-			var email = document.getElementById("latex").value;
-			document.write(email);
-		}
 
 	</script>
 	
