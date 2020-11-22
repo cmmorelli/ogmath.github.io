@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-	<?php include "https://ogmath.com/header.js";?>
+	<?php include "../header.js";?>
     </head>
     <body>
 	<p>Type math here: <span id="math-field"></span></p>
