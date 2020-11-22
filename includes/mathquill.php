@@ -22,8 +22,8 @@
 		});
 		
 		function getData(){
-			var a = document.getElementById("latex").value;
-			var message = "user entered " + a;
+			var a = document.getElementById('latex').value;
+			alert("Value is: "+a);
 
 		}
 
