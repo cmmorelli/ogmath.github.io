@@ -1,7 +1,7 @@
-<?php include "https://ogmath.com/header.js"; ?>
 <!DOCTYPE html>
 <html>
 	<head>
+		<?php include "https://ogmath.com/header.js"; ?>
 	</head>
 	<body>
 	<p><span id="answer">x=</span></p>
