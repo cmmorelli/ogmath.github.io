@@ -20,7 +20,10 @@
 						  }
 				  }
 		});
-		console.log(latexSpan);
+		if latexSpan="\frac{5/6}"
+			{
+				alert("Correct");
+			}
 	</script>
     </body>
 </html>
