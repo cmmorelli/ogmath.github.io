@@ -20,16 +20,7 @@
 						  }
 				  }
 		});
-
-		let bob = document.querySelector('#latex');
-		bob.addEventListener('keyup', function (e) {
-			    console.log('Value:', bob.value);
-		}
-
-
-			
 	</script>
-
     </body>
 </html>
 
