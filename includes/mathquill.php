@@ -21,6 +21,17 @@
 				  }
 		});
 	</script>
+
+	<script type="text/javascript">
+		var d=new Date()
+		var time=d.getHours()
+		
+		if (time<10) 
+		{
+		document.write("<b>Good morning</b>")
+		}
+		</script>
+
     </body>
 </html>
 
