@@ -20,15 +20,13 @@
 						  }
 				  }
 		});
-	</script>
-
-	<script type="text/javascript">
-		
-		if (latexSpan = 1) 
+	
+		var answer = document.getElementById('latex')
+		if (answer = 1) 
 		{
 		document.write("<b>Good morning</b>")
 		}
-		</script>
+	</script>
 
     </body>
 </html>
