@@ -19,8 +19,10 @@
 						  }
 				  }
 		});
-		
-		pan id="answer">x=</span></p>
+	</script>
+
+
+		<span id="answer">x=</span></p>
 
 <script>
   var answerSpan = document.getElementById('answer');
@@ -32,12 +34,7 @@
 			            }
 	          }
 	  });
-  </script>
-
-
-	</script>
-	
-			
+  </script>			
 			
 
     </body>
