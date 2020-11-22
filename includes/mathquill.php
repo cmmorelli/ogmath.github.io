@@ -22,12 +22,9 @@
 		});
 
 		document.getElementById("button").onclick = function() { 
-			document.getElementById("latex").innerHTML = bob;
+			document.write(latexSpan);
 		}
 			
-		<h1>document.write(bob)</h1>
-
-
 
 	</script>
 	
