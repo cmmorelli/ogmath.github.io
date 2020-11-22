@@ -24,5 +24,5 @@
 
 <!--CSS-->
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu+Mono" />
-	<link rel="stylesheet" href="pandoc.css">
-	<link rel="stylesheet" href="jsxgraph.css">
+	<link rel="stylesheet" href="https://ogmath.com/css/pandoc.css">
+	<link rel="stylesheet" href="https://ogmath.com/css/jsxgraph.css">
