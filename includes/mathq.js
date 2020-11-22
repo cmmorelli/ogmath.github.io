@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-	<?php include "../header.js";?>
-    </head>
-    <body>
-	<p>Type math here: <span id="math-field"></span></p>
-	<p>LaTeX of what you typed: <span id="latex"></span></p>
 
-	<script src="./mathq.js"></script>
-
-	<script>
 		var mathFieldSpan = document.getElementById('math-field');
 		var latexSpan = document.getElementById('latex');
 		
@@ -22,8 +11,3 @@
 						  }
 				  }
 		});
-	</script>
-    </body>
-</html>
-
-
