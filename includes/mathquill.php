@@ -30,11 +30,8 @@
 	              
 	            function gfg_Run() { 
 		                    el_down.innerHTML = span.textContent; 
-				    if span.textContent = 4 {
-				    	alert("Correct");
 				    }
-				    else {alert("Incorrect");}
-		    }          	    
+		         	    
 	</script>
     </body>
 </html>
