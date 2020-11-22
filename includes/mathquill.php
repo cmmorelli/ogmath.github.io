@@ -21,6 +21,9 @@
 				  }
 		});
 	</script>
+	<script>
+		console.log(latexSpan);
+	</script>
     </body>
 </html>
 
