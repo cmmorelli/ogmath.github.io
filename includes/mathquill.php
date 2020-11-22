@@ -26,7 +26,7 @@
 		var d=new Date()
 		var time=d.getHours()
 		
-		if (latex<10) 
+		if (latexSpan.textContent<10) 
 		{
 		document.write("<b>Good morning</b>")
 		}
