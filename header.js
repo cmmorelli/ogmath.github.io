@@ -23,9 +23,9 @@
 	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jsxgraph/1.1.0/jsxgraph.css" />
 
 <!--MathQuill-->
-	<link rel="stylesheet" href="/path/to/mathquill.css"/>
+	<link rel="stylesheet" href="https://ogmath.com/js/mathquill/mathquill.css"/>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-	<script src="/path/to/mathquill.js"></script>
+	<script src="https://ogmath.com/js/mathquill/mathquill.js"></script>
 
 <!--CSS-->
 	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu+Mono" />
