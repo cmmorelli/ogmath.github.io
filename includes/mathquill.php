@@ -21,7 +21,7 @@
 				  }
 		});
 
-		if (latexSpan == 4) {
+		if (latexSpan == "4") {
 			document.write("Hi");
 		}
 
