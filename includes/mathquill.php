@@ -17,7 +17,7 @@
 			    handlers: {
 				edit: function() { // useful event handlers
 					      latexSpan.textContent = mathField.latex(); // simple API
-					}
+					      var bob = latexSpan}
 				  }
 		});
 	</script>
