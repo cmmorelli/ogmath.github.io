@@ -15,7 +15,7 @@
 		
 		<!--Top Links-->
 		
-		<p>Student Resources:<a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://bit.ly/desmos-test-mode-chrome-app" title="Desmos Test Mode Chrome App Extension">Desmos</a>
+		<p>Student Resources: <a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://bit.ly/desmos-test-mode-chrome-app" title="Desmos Test Mode Chrome App Extension">Desmos</a>
 		</p> 
 
 		<!--PHP Error/Warning Debugging Scripts
