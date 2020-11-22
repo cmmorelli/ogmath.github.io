@@ -20,7 +20,7 @@
 						  }
 				  }
 		});
-		if(latexSpan="\frac{5/6}")
+		if(latexSpan="\\frac{5/6}")
 			{
 				alert("Correct");
 			}
