@@ -31,8 +31,6 @@
 	            function gfg_Run() { 
 		                    el_down.innerHTML = span.textContent; 
 		    }
-
-		if (gfg_Run('4')) {alert("Good Job");}
 	</script>
     </body>
 </html>
