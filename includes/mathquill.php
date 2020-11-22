@@ -22,7 +22,7 @@
 		});
 		
 		function getData(){
-			var a = document.getElementById('latex').value;
+			var a = document.getElementById("math-field").value;
 			alert("Value is: "+a);
 
 		}
