@@ -11,15 +11,18 @@
 		var mathFieldSpan = document.getElementById('math-field');
 		var latexSpan = document.getElementById('latex');
 		
-		var MQ = MathQuill.getInterface(2); // for backcompat
+		var MQ = MathQuill.getInterface(2);
 		var mathField = MQ.MathField(mathFieldSpan, {
-		  spaceBehavesLikeTab: true, // configurable
+		  spaceBehavesLikeTab: true,
 			    handlers: {
-				edit: function() { // useful event handlers
-					      latexSpan.textContent = mathField.latex(); // simple API
-					      var bob = latexSpan}
+				edit: function() { 
+					      latexSpan.textContent = mathField.latex();
+					   }
 				  }
 		});
+	var bob;
+	bob = mathField.latex();
+	alert(bob);	
 	</script>
     </body>
 </html>
