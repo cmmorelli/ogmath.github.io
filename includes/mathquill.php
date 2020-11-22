@@ -22,9 +22,13 @@
 		});
 	
 		var answer = document.getElementById('latex').value;
-		if (answer = 1) 
+		if (answer == '1') 
 		{
-		document.write("<b>Good morning</b>")
+		document.write("<b>Good morning</b>");
+		}
+		else
+		{
+		document.write("ERROR");
 		}
 	</script>
 
