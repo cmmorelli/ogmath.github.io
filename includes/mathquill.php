@@ -22,7 +22,8 @@
 		});
 
 		document.getElementById("button").onclick = function() { 
-			var newLatexSpan = document.getElementById("latex").innerHTML = newLatexSpan;
+			var newLatexSpan = 0;
+			document.getElementById("latex").innerHTML = newLatexSpan;
 		}
 
 
