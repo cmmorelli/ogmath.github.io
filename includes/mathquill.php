@@ -21,22 +21,12 @@
 				  }
 		});
 
-
-		function init() {
-			key_count_global = 0; // Global variable
-			document.getElementById("latex").onkeypress = function() {
-			key_count_global++;
-			setTimeout("lookup("+key_count_global+")", 1000);
-					}
+		if (latexSpan == 4) {
+			document.write("Hi");
 		}
-		window.onload = init; //or $(document).ready(init); - for jQuery
 
-		function lookup(key_count) {
-			if(key_count == key_count_global) { 
-				document.getElementById("status_stop").innerHTML = " ... lookup result ...";
-				}
-		}	
-	
+
+			
 	</script>
 
     </body>
