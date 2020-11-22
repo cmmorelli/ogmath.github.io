@@ -22,11 +22,9 @@
 		});
 	</script>
 
-	<script async type="text/javascript">
-		var d=new Date()
-		var time=d.getHours()
+	<script type="text/javascript">
 		
-		if (latexSpan.textContent<10) 
+		if (latexSpan = 1) 
 		{
 		document.write("<b>Good morning</b>")
 		}
