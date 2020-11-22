@@ -17,6 +17,15 @@
 	        }
 	  });
   	</script>
+
+
+	<p>Solve <span id="problem">ax^2 + bx + c = 0</span>.</p>
+
+		<script>
+  			var problemSpan = document.getElementById('problem');
+    			MQ.StaticMath(problemSpan);
+  		</script>
+
 	</body>
 </html>
 
