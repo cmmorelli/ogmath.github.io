@@ -31,8 +31,8 @@
 	            function gfg_Run() { 
 		                    el_down.innerHTML = span.textContent; 
 				    }
-		    if (el_down.innerHTML = "4") {
-			alert(el_down.innerHTML);
+		    if (span.textContent = "4") {
+			alert(span.textContent);
     			}				
 	</script>
     </body>
