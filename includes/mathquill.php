@@ -6,6 +6,7 @@
     <body>
 	<p>Type math here: <span id="math-field"></span></p>
 	<p>LaTeX of what you typed: <span id="latex"></span></p>
+	<button onclick="getData();">Get Data</button>
 	<script>
 		var mathFieldSpan = document.getElementById('math-field');
 		var latexSpan = document.getElementById('latex');
@@ -19,7 +20,12 @@
 						  }
 				  }
 		});
+		
+		function getData(){
+			var a = document.getElementById("latex").value;
+			var message = "user entered " + a;
 
+		}
 
 	</script>
 	
