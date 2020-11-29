@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 int main() {
-	int max;
-	scanf("%d", &max);
+	int i;
 	
-	for (int i = 0; i < max; i++) {
+	for (int i = 0; i < 60 ; i++) {
 		printf("%d\n", i);
 	}
 
