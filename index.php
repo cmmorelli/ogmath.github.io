@@ -17,7 +17,8 @@
 		
 		<p>Student Resources: <a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://bit.ly/desmos-test-mode-chrome-app" title="Desmos Test Mode Chrome App Extension">Desmos</a>
 		</p> 
-
+		<a href="./learn/curry/hello.html" title="My Hello.C Output">Hello</a>
+		<p>
 		<a href="./includes/graph.php" title="Graph Example">Graph Example</a>
 		<p>
 		<a href="./includes/mathquill.php" title="MathQuill Example">MathQuill Example</a>		
