@@ -17,6 +17,7 @@
 		
 		<p>Student Resources: <a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://bit.ly/desmos-test-mode-chrome-app" title="Desmos Test Mode Chrome App Extension">Desmos</a>
 		</p> 
+		<a href="https://github.com/ogmath/ogmath.github.io/blob/master/learn/curry/emailprint.c" title="My EMAILPRINT C Program Source Code on Git">EMAILPRINT C Program Source Code on GitHub</a>
 		<a href="./learn/curry/hello.html" title="My Hello.C Output">Hello</a>
 		<p>
 		<a href="./includes/graph.php" title="Graph Example">Graph Example</a>
