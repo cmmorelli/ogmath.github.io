@@ -1,0 +1,1000 @@
+  176  sudo postconf -e 'smtp_header_checks = regexp:/etc/postfix/header_checks'
+  177  echo "hahaha" | -s "haha" root
+  178  echo "hahaha" | mail -s "haha" root
+  179  echo "hahaha" | mailx -s "haha" root
+  180  echo "hahaha" | mailx -s "haha111" root
+  181  sendmail
+  182  sendmail -t 
+  183  sendmail mmorelli@live.com
+  184  service postfix reload
+  185  sudo service postfix reload
+  186  echo "test" | root
+  187  echo "test" | mail root
+  188  sendmail
+  189  sendmail mmorelli@live.com
+  190  sudo vim header_checks
+  191  postmap header_checks
+  192  postconf -e 'smtp_header_checks = regexp:/etc/postfix/header_checks'
+  193  sudo postconf -e 'smtp_header_checks = regexp:/etc/postfix/header_checks'
+  194  sudo service postfix reload
+  195  echo "hi" | -s "tree" root
+  196  echo "hi" | mail -s "tree" root
+  197  sendmail jfalken22@gmail.com
+  198  echo "hi" | mailx -s "tree" root
+  199  echo "hi" | mailx -s "mailxtree" root
+  200  echo "hi" | mailx -s "mailxtrreee" jfalken22@gmail.com
+  201  echo "hi" | mailx -s "blablah" root
+  202  sudo vim /etc/aliases
+  203  sudo newaliases
+  204  echo "hi" | mailx -s "NEWROOTblablah" root
+  205  sudo vim /etc/aliases
+  206  cd ~
+  207  sudo vim .forward
+  208  echo "hi" | mailx -s "NEWROOTblablah" root
+  209  echo "hi" | mailx -s "1111NEWROOTblablah" root
+  210  sudo newaliases
+  211  sudo vim /etc/aliases
+  212  service postfix reload
+  213  sudo service postfix reload
+  214  echo "hi" | mailx -s "222221111NEWROOTblablah" root
+  215  echo "hi" | mailx -s "4444" root
+  216  sudo newaliases
+  217  sudo vim /etc/aliases
+  218  sudo newaliases
+  219  sudo vim /root/.forward
+  220  sudo vim /etc/aliases
+  221  sudo newaliases
+  222  echo "hi" | mailx -s "5555" root
+  223  sudo vim /root/.forward
+  224  sudo vim /etc/postfix/main.cf
+  225  service postfix reload
+  226  sudo service postfix reload
+  227  echo "hi" | mailx -s "5555" root
+  228  sudo vim /etc/postfix/main.cf
+  229  sudo vim /root/.forward
+  230  sudo vim .forward
+  231  sudo vim /etc/aliases
+  232  sudo newaliases
+  233  echo "hi" | mailx -s "15555" root
+  234  sudo su
+  235  echo "hi" | mailx -s "2215555" root
+  236  sudo su
+  237  sudo vim /root/.forward
+  238  sudo vim /etc/aliases
+  239  sudo newaliases
+  240  echo "hi" | mailx -s "2215555" root
+  241  sudo vim /root/.forward
+  242  echo "hi" | mailx -s "2215555" root
+  243  sudo vim /root/.forward
+  244  echo "hi" | mailx -s "2215555" root
+  245  sudo vim /root/.forward
+  246  echo "hi" | mailx -s "uba" root
+  247  sudo vim /etc/postfix/main.cf
+  248  sendmail -bv jane
+  249  sendmail -bv root
+  250  sendmail -bv mmorelli@live.com
+  251  mail
+  252  sudo vim /root/.forward
+  253  cd ~
+  254  sudo vim .forward
+  255  sendmail -bv root
+  256  sudo vim /etc/postfix/main.cf
+  257  sendmail -bv mmorelli@live.com
+  258  sudo vim /etc/postfix/generic
+  259  cd /etc/postfix postmap generic
+  260  cd /etc/postfix && postmap generic
+  261  cd /etc/postfix && sudo postmap generic
+  262  /etc/init.d/postfix restart
+  263  sudo /etc/init.d/postfix restart
+  264  sendmail -bv mmorelli
+  265  sudo vim /etc/postfix/generic
+  266  sendmail -bv mmorelli
+  267  cd /etc/postfix && sudo postmap generic
+  268  sudo /etc/init.d/postfix restart
+  269  sendmail -bv mmorelli
+  270  sendmail -bv root
+  271  sudo su
+  272  sudo vim main.cf
+  273  sudo /etc/init.d/postfix restart
+  274  sudo vim main.cf
+  275  sudo /etc/init.d/postfix restart
+  276  cd ~
+  277  ls -a
+  278  sudo vim .forward 
+  279  sudo rm .forward 
+  280  sudo /etc/init.d/postfix restart
+  281  echo "hahah" | -s 
+  282  echo "hahah" | mailx -s "subject" root 
+  283  sendmail -bv mmorelli@live.com
+  284  sendmail -bv jfalken22@gmail.com
+  285  mail
+  286  sendmail -bv jfalken22@gmail.com
+  287  mail
+  288  echo "test" | -s 
+  289  echo "test" | mail -s "bob" root 
+  290  sudo su
+  291  echo "test" | mail -s "bob1" root 
+  292   
+  293  history | mail root
+  294  echo "eduardo external email test" | mail -s "EDUARDO EMAIL TEST" ea240265@westwoodisd.net
+  295  echo "" | mail root
+  296  gcloud compute ssh host-vom
+  297  sudo apt update && sudo apt install -y build-essential
+  298  ssh --version
+  299  ssh -V
+  300  gcloud compute os-login
+  301  gcloud init
+  302  ssh-keygen -t ecdsa-sk
+  303  gc
+  304  exit
+  305  ls
+  306  echo "cd ~" >> ~/.bashrc
+  307  source ~/.bashrc
+  308  sudo service postfix restart
+  309  echo "" 
+  310  echo "hi" | mail root
+  311  echo "" | mail root
+  312  echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] https://packages.cloud.google.com/apt cloud-sdk main" | sudo tee -a /etc/apt/sources.list.d/google-cloud-sdk.list
+  313  sudo apt-get install apt-transport-https ca-certificates gnupg
+  314  curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
+  315  sudo apt-get update && sudo apt-get install google-cloud-sdk
+  316  gcloud init
+  317  gcloud beta compute ssh --zone "us-central1-a" "ogmath5" --project "ogmath5"
+  318  gcloud compute firewall-rules list
+  319  ssh-keygen -t rsa -f ~/.ssh/google_compute_engine -C mmorelli
+  320  sudo gcloud compute ssh mmorelli@ubuntu
+  321  gcloud auth login
+  322  sudo gcloud compute ssh mmorelli@ogmath.com
+  323  sudo gcloud compute ssh mmorelli
+  324  gcloud auth login
+  325  gcloud compute routes list
+  326  gcloud compute routes create default-internet \ --destination-range 0.0.0.0/0 \ --next-hop-gateway default-internet-gateway
+  327  gcloud compute routes create default-internet
+  328  gcloud compute routes create default-internet --destination-range 0.0.0.0/0 --next-hop-gateway default-internet-gateway
+  329  gcloud beta compute ssh --zone "us-central1-a" "ogmath5" --project "ogmath5"
+  330  gcloud init
+  331  gcloud beta compute ssh --zone "us-central1-a" "ogmath5" --project "ogmath5"
+  332  echo $USER
+  333  export USER=mmorelli
+  334  gcloud compute ssh ogmath5
+  335  ssh mmorelli@ogmath.com -p 22
+  336  gcloud beta compute ssh --zone "us-central1-a" "ogmath5" --project "ogmath5"
+  337  echo "test1111local | mail root
+  338  echo "localtest" | mail root
+  339  pbcopy
+  340  clear
+  341  gc
+  342  sudo vim ~/.bashrc
+  343  gc
+  344  source ~/.bashrc
+  345  gc
+  346  sudo apt-get install aptitude
+  347  aptitude why gcloud
+  348  aptitude why ifconfig
+  349  aptitude why xsel
+  350  ls
+  351  history | mail root
+  352  sudo apt update && sudo apt upgrade
+  353  gc
+  354  neofetch
+  355  sudo apt install neofetch
+  356  neofetch
+  357  sudo service postfix restart
+  358  echo "test" | mailx mike
+  359  echo "test" | mailx root
+  360  echo "test" | mail root
+  361  sudo adduser mike
+  362  su mike
+  363  gc
+  364  cdg
+  365  cd includes/
+  366  ls
+  367  cd ..
+  368  ls
+  369  vim header.js 
+  370  cd includes/
+  371  ls
+  372  sudo vim ineq.php 
+  373  g
+  374  ls
+  375  mv ineq.php ineq.html
+  376  g
+  377  ls
+  378  rm ineq
+  379  ls
+  380  rm ineq_old.php 
+  381  ls
+  382  sudo parity.php
+  383  sudo vim parity.php
+  384  ls
+  385  mv parity.php parity.html
+  386  ls
+  387  vim ineq.html
+  388  sudo vim ineq.html
+  389  cd ..
+  390  ls
+  391  sudo vim pandoc.css
+  392  cd /includes/ && sudo vim ineq.html
+  393  cd /includes && sudo vim ineq.html
+  394  cd includes/ && sudo vim ineq.html
+  395  g
+  396  cd ..
+  397  sudo vim index2.php
+  398  ls
+  399  wsl-open index2.php
+  400  wsl-open index.php
+  401  g
+  402  sudo vim index2.php
+  403  g
+  404  git add .
+  405  git commit -m "new"
+  406  git pull origin master
+  407  git push origin master
+  408  sudo vim index2.php
+  409  g
+  410  sudo vim index2.php
+  411  cd includes/
+  412  sudo vim ineq.html
+  413  g
+  414  cd ..
+  415  sudo vim pandoc.css 
+  416  cd includes/
+  417  sudo vim ineq.html 
+  418  g
+  419  cd ..
+  420  sudo vim pandoc.css 
+  421  sudo vim index2.php
+  422  cd includes/
+  423  sudo vim ineq.html 
+  424  sudo vim ineq.html 
+  425  g
+  426  sudo vim ineq.html 
+  427  g
+  428  cd ..
+  429  ls
+  430  mv index.php index_old.php
+  431  mv index2.php index.php
+  432  sudo vim index.php
+  433  g
+  434  sudo vim index.php
+  435  cdg
+  436  ls
+  437  git clone https://github.com/ogmath/ogmath.github.io.git
+  438  cd ogmath.github.io/
+  439  ls
+  440  git pull origin master
+  441  ls
+  442  git fetch -all
+  443  git fetch --all
+  444  ls
+  445  cd ..
+  446  ls -a
+  447  cd ogmath.github.io/
+  448  ls
+  449  git fetch -all
+  450  git reset --hard origin/master
+  451  ls
+  452  vim /includes/ineq.php
+  453  sudo vim /includes/ineq.php
+  454  ls
+  455  cd includes/
+  456  ls
+  457  cd ..
+  458  ls
+  459  mv ineq.php /includes/
+  460  mv ineq.php /includes/ineq.php
+  461  mv ineq.php /includes
+  462  sudo mv ineq.php /includes
+  463  ls
+  464  ls -a
+  465  git add .
+  466  git commit -m "new file ineq"
+  467  git config --global user.email mmorelli@ogmath.com
+  468  git config --global user.name "Michael Morelli"
+  469  git commit -m "new file ineq"
+  470  git pull origin master
+  471  git push origin master
+  472  ls
+  473  cd includes/
+  474  ls
+  475  cd ..
+  476  ls
+  477  cd includes/
+  478  sudo vim ineq.php
+  479  ls
+  480  git add .
+  481  git commit -m "new addition"
+  482  git pull origin master
+  483  git push origin master
+  484  htop
+  485  ls
+  486  sudo vim ineq.php
+  487  wsl-open ineq.php
+  488  sudo vim ineq.php
+  489  wsl-open ineq.php
+  490  sudo vim ineq.php
+  491  wsl-open ineq.php
+  492  sudo vim ineq.php
+  493  wsl-open ineq.php
+  494  sudo vim ineq.php
+  495  wsl-open ineq.php
+  496  sudo vim ineq.php
+  497  wsl-open ineq.php
+  498  cd ..
+  499  ls
+  500  git add .
+  501  git commit -m "update"
+  502  git pull origin master
+  503  git push origin master
+  504  sudo vim ineq.php
+  505  cd includes/
+  506  sudo vim ineq.php
+  507  wsl-open ineq.php
+  508  sudo vim ineq.php
+  509  wsl-open ineq.php
+  510  sudo vim ineq.php
+  511  wsl-open ineq.php
+  512  sudo vim ineq.php
+  513  wsl-open ineq.php
+  514  sudo vim ineq.php
+  515  wsl-open ineq.php
+  516  sudo vim ineq.php
+  517  wsl-open ineq.php
+  518  sudo vim ineq.php
+  519  wsl-open ineq.php
+  520  cd ..
+  521  ls
+  522  sudo vim pandoc.css
+  523  wsl-open index.php
+  524  sudo vim pandoc.css
+  525  wsl-open index.php
+  526  sudo vim pandoc.css
+  527  g
+  528  git add .
+  529  git commit -m "comment"
+  530  git pull origin mast3er
+  531  git pull origin master
+  532  git push origin master
+  533  sudo vim pandoc.css
+  534  cd includes/
+  535  ls
+  536  sudo vim ineq.php 
+  537  wsl-open ineq.php
+  538  cd ..
+  539  sudo vim pandoc.css
+  540  wsl-open includes/ineq.php
+  541  sudo vim pandoc.css
+  542  git add .
+  543  git commit -m "new css"
+  544  git pull origin master
+  545  git push origin master
+  546  sudo vim index.php
+  547  sudo vim index.md
+  548  sudo vim ~/.bashrc
+  549  source ~/.bashrc
+  550  cdg
+  551  sudo vim ~/.bashrc
+  552  source ~/.bashrc
+  553  cdg
+  554  cd /var/
+  555  ls
+  556  cd ..
+  557  ls
+  558  ~
+  559  cd ~
+  560  ls
+  561  cd ogmath.github.io/
+  562  sudo vim ~/.bashrc
+  563  source ~/.bashrc
+  564  cdg
+  565  g
+  566  cd includes/
+  567  vim ineq.php 
+  568  sudo vim ineq.php 
+  569  wsl-open ineq.php
+  570  sudo vim ineq.php 
+  571  wsl-open ineq.php
+  572  sudo vim ineq.php 
+  573  g
+  574  git add .
+  575  git commit -m "update"
+  576  git pull origin master
+  577  git push origin master
+  578  sudo vim ineq.php 
+  579  wsl-open ineq.php
+  580  git add .
+  581  git commit -m "updates"
+  582  git pull origin master
+  583  git push origin master
+  584  cd ..
+  585  ls
+  586  sudo vim index.md
+  587  g
+  588  gc
+  589  echo "test" | root
+  590  echo "test" | mail root
+  591  echo "test" | mail mike
+  592  echo "test" | mail mmorelli@live.com
+  593  ls
+  594  cd includes/
+  595  ls
+  596  vim exponents.html
+  597  cd ..
+  598  ls
+  599  vim header.js 
+  600  vim index.md
+  601  sudo vim pandoc.css 
+  602  g
+  603  sudo vim pandoc.css 
+  604  g
+  605  cdg
+  606  cd includes/
+  607  sudo vim ineq.html 
+  608  g
+  609  gc
+  610  ls
+  611  sudo vim ineq.html
+  612  g
+  613  gc
+  614  git pull origin master
+  615  ls
+  616  cd ..
+  617  ls
+  618  gc
+  619  sudo git reset --hard origin/master
+  620  ls
+  621  cd includes/
+  622  ls
+  623  cd ..
+  624  ls
+  625  ls -a
+  626  git pull origin master
+  627  ls
+  628  sudo git reset --hard origin/master
+  629  sudo git fetch --all
+  630  sudo git reset --hard origin/master
+  631  ls
+  632  git fetch origin master
+  633  ls
+  634  git reset --hard FETCH_HEAD
+  635  ls
+  636  git pull origin master
+  637  git reset
+  638  git pull origin master
+  639  ls
+  640  gc
+  641  sudo git pull origin master
+  642  ls
+  643  cd js
+  644  ls
+  645  cd .
+  646  cd ..
+  647  ls
+  648  wsl-open 1O38t1OUHEHmalnlf1Gf7zIUl5AdWWsEu.pdf
+  649  wsl-open 1O38t1OUHEHmalnlf1Gf7zIUl5AdWWsEu
+  650  rm 1O38t1OUHEHmalnlf1Gf7zIUl5AdWWsEu
+  651  ls
+  652  mail
+  653  curl ifconfig.me
+  654  ifconfig
+  655  ls
+  656  cd ogmath.github.io/
+  657  ls
+  658  vim header.js 
+  659  sudo vim graph.php
+  660  wsl-open graph.php 
+  661  sudo vim graph.php
+  662  wsl-open graph.php 
+  663  sudo vim graph.php
+  664  wsl-open graph.php 
+  665  sudo vim graph.php
+  666  wsl-open graph.php 
+  667  sudo vim graph.php
+  668  wsl-open graph.php 
+  669  sudo vim graph.php
+  670  wsl-open graph.php 
+  671  sudo vim graph.php
+  672  wsl-open graph.php 
+  673  sudo vim graph.php
+  674  wsl-open graph.php 
+  675  sudo vim graph.php 
+  676  wsl-open graph.php 
+  677  sudo vim graph.php 
+  678  wsl-open graph.php 
+  679  sudo vim graph.php 
+  680  wsl-open graph.php 
+  681  sudo vim graph.php 
+  682  wsl-open graph.php 
+  683  sudo vim graph.php 
+  684  wsl-open graph.php 
+  685  sudo vim graph.php 
+  686  wsl-open graph.php 
+  687  sudo vim graph.php 
+  688  wsl-open graph.php 
+  689  sudo vim graph.php 
+  690  wsl-open graph.php 
+  691  sudo vim graph.php 
+  692  wsl-open graph.php 
+  693  sudo vim graph.php 
+  694  ls
+  695  mv graph.php /includes
+  696  mv graph.php ./includes
+  697  ls
+  698  cd includes/
+  699  ls
+  700  sudo vim graph.php
+  701  wsl-open graph.php 
+  702  g
+  703  ls
+  704  cd ..
+  705  git pull origin master
+  706  sudo git pull origin master
+  707  ls
+  708  vim index.php
+  709  cd includes/
+  710  ls
+  711  sudo graph.php
+  712  sudo vim graph.php
+  713  mv graph.php graph.html
+  714  cd ..
+  715  sudo vim index.php
+  716  ls
+  717  sudo vim index.php
+  718  ls
+  719  sudo vim index.php~
+  720  ls
+  721  vim index.php
+  722  mv index.php~ index.php
+  723  ls
+  724  sudo vim index.php
+  725  g
+  726  cd includes/
+  727  ls
+  728  sudo vim graph.html
+  729  g
+  730  cd includes
+  731  cd /includes
+  732  ls
+  733  echo graph.html | mail root
+  734  graph.html | mail root
+  735  vim graph.html
+  736  sudo vim graph.html
+  737  g
+  738  sudo vim graph.html
+  739  g
+  740  sudo vim graph.html
+  741  g
+  742  sudo vim graph.html
+  743  g
+  744  sudo vim graph.html
+  745  g
+  746  sudo vim graph.html
+  747  g
+  748  sudo vim graph.html
+  749  g
+  750  sudo vim graph.html
+  751  g
+  752  sudo vim graph.html
+  753  g
+  754  git push
+  755  sudo vim graph.html
+  756  g
+  757  sudo vim graph.html
+  758  g
+  759  sudo vim graph.html
+  760  g
+  761  sudo vim graph.html
+  762  g
+  763  sudo vim graph.html
+  764  cd ..
+  765  ls
+  766  sudo vim header.js 
+  767  g
+  768  sudo git push origin master
+  769  sudo vim header.js 
+  770  g
+  771  cd includes/
+  772  ls
+  773  sudo vim graph.html 
+  774  g
+  775  sudo vim graph.html 
+  776  g
+  777  sudo vim graph.html 
+  778  g
+  779  sudo vim graph.html 
+  780  g
+  781  sudo vim graph.html 
+  782  g
+  783  sudo vim graph.html 
+  784  g
+  785  sudo vim graph.html 
+  786  g
+  787  sudo vim graph.html 
+  788  g
+  789  sudo vim graph.html 
+  790  wsl-open graph.txt
+  791  sudo vim graph.html 
+  792  g
+  793  sudo vim graph.html 
+  794  g
+  795  sudo vim graph.html 
+  796  g
+  797  sudo vim graph.html 
+  798  g
+  799  cd ..
+  800  sudo vim index.php
+  801  g
+  802  sudo vim index.php
+  803  g
+  804  sudo vim index.php
+  805  g
+  806  sudo vim index.php
+  807  g
+  808  sudo vim index.php
+  809  g
+  810  sudo vim index.php
+  811  g
+  812  sudo git pull origin master
+  813  sudo service postfix restart
+  814  history | mail root
+  815  ls
+  816  cd includes/
+  817  ls
+  818  sudo vim graph.html
+  819  wsl-open graph.html
+  820  cd ..
+  821  ls
+  822  sudo vim index.php
+  823  g
+  824  sudo vim index.php
+  825  cd includes/
+  826  ls
+  827  mv graph.html graph.php
+  828  cd ..
+  829  g
+  830  cd includes/
+  831  ls
+  832  sudo vim graph.php
+  833  g
+  834  cd ..
+  835  sudo git pull origin master
+  836  ls
+  837  sudo vim header.js
+  838  cd includes/
+  839  sudo vim mathquill.php
+  840  cd ..
+  841  sudo vim header.js
+  842  sudo git push origin master
+  843  sudo git pull origin master
+  844  sudo git add .
+  845  sudo git commit -m "add"
+  846  sudo git pull origin master
+  847  sudo git push origin master
+  848  ls
+  849  cd ..
+  850  cdg
+  851  cd includes/
+  852  ls
+  853  sudo vim mathquill.php 
+  854  cd ..
+  855  sudo vim header.js 
+  856  g
+  857  ls
+  858  sudo vim index.php
+  859  g
+  860  @rumeDraq8phg
+  861  g
+  862  cd ..
+  863  cdg
+  864  g
+  865  git push
+  866  sudo git pull origin master
+  867  ls
+  868  sudo vim header.js 
+  869  cd includes/
+  870  ls
+  871  sudo vim mathquill.php 
+  872  g
+  873  sudo git pull origin master
+  874  ls
+  875  cd ..
+  876  ls
+  877  cd includes/
+  878  ls
+  879  sudo vim mathquill.php 
+  880  g
+  881  ls
+  882  sudo vim mathquill.php 
+  883  g
+  884  sudo git push origin master
+  885  sudo git pull origin master
+  886  sudo vim mathquill.php 
+  887  g
+  888  sudo git pull origin master
+  889  ls
+  890  sudo vim mathquill.php 
+  891  g
+  892  sudo vim mathquill.php 
+  893  g
+  894  sudo git pull origin master
+  895  ls
+  896  sudo vim mathquill.php 
+  897  g
+  898  sudo git pull origin master
+  899  ls
+  900  sudo vim mathquill.php 
+  901  g
+  902  sudo vim mathquill.php 
+  903  g
+  904  sudo vim mathquill.php 
+  905  g
+  906  sudo vim mathquill.php 
+  907  g
+  908  sudo vim mathquill.php 
+  909  g
+  910  sudo vim mathquill.php 
+  911  g
+  912  sudo vim mathquill.php 
+  913  g
+  914  sudo vim mathquill.php 
+  915  g
+  916  sudo vim mathquill.php 
+  917  g
+  918  sudo vim mathquill.php 
+  919  g
+  920  sudo vim mathquill.php 
+  921  g
+  922  sudo vim mathquill.php 
+  923  g
+  924  sudo vim mathquill.php 
+  925  g
+  926  sudo vim mathquill.php 
+  927  g
+  928  sudo git push origin master
+  929  sudo vim mathquill.php 
+  930  g
+  931  sudo vim mathquill.php 
+  932  g
+  933  sudo vim mathquill.php 
+  934  g
+  935  sudo vim mathquill.php 
+  936  g
+  937  sudo vim mathquill.php 
+  938  g
+  939  sudo vim mathquill.php 
+  940  g
+  941  sudo vim mathquill.php 
+  942  g
+  943  sudo vim mathquill.php 
+  944  g
+  945  sudo vim mathquill.php 
+  946  g
+  947  sudo git push origin master
+  948  sudo vim mathquill.php 
+  949  g
+  950  sudo vim mathquill.php 
+  951  wsl-open mathquill.php 
+  952  g
+  953  sudo vim mathquill.php 
+  954  g
+  955  sudo vim mathquill.php 
+  956  g
+  957  sudo vim mathquill.php 
+  958  g
+  959  sudo vim mathquill.php 
+  960  g
+  961  sudo vim mathquill.php 
+  962  g
+  963  sudo vim mathquill.php 
+  964  g
+  965  sudo vim mathquill.php 
+  966  g
+  967  sudo vim mathquill.php 
+  968  g
+  969  sudo vim mathquill.php 
+  970  g
+  971  sudo vim mathquill.php 
+  972  g
+  973  sudo vim mathquill.php 
+  974  g
+  975  sudo vim mathquill.php 
+  976  g
+  977  sudo vim mathquill.php 
+  978  g
+  979  sudo vim mathquill.php 
+  980  g
+  981  sudo vim mathquill.php 
+  982  g
+  983  sudo vim mathquill.php 
+  984  g
+  985  sudo vim mathquill.php 
+  986  ls
+  987  sudo vim mathq.js
+  988  wsl-open mathquill.php
+  989  sudo vim mathq.js
+  990  sudo vim mathquill.php 
+  991  g
+  992  sudo vim mathquill.php 
+  993  g
+  994  sudo vim mathquill.php 
+  995  g
+  996  sudo vim mathquill.php 
+  997  g
+  998  sudo vim mathquill.php 
+  999  g
+ 1000  sudo push origin master
+ 1001  g
+ 1002  sudo git push origin master
+ 1003  sudo vim mathquill.php 
+ 1004  g
+ 1005  sudo vim mathquill.php 
+ 1006* gA
+ 1007  sudo vim mathquill.php 
+ 1008  g
+ 1009  sudo vim mathquill.php 
+ 1010  g
+ 1011  sudo vim mathquill.php 
+ 1012  g
+ 1013  sudo vim mathquill.php 
+ 1014  ogmath
+ 1015  g
+ 1016  sudo vim mathquill.php 
+ 1017  g
+ 1018  sudo vim mathquill.php 
+ 1019  g
+ 1020  sudo vim mathquill.php 
+ 1021  g
+ 1022  sudo vim mathquill.php 
+ 1023  g
+ 1024  sudo vim mathquill.php 
+ 1025  sudo cp mathquill.php mathquill.php.old
+ 1026  ls
+ 1027  sudo vim mathquill.php
+ 1028  g
+ 1029  sudo git push origin master
+ 1030  sudo vim mathquill.php
+ 1031  ls
+ 1032  cp mathquill.php.old mathquill.php
+ 1033  sudo cp mathquill.php.old mathquill.php
+ 1034  ls
+ 1035  sudo vim mathquill.php
+ 1036  cd ..
+ 1037  ls
+ 1038  cd js
+ 1039  ls
+ 1040  vim mathquill
+ 1041  cd mathquill/
+ 1042  ls
+ 1043  vim mathquill.js
+ 1044  cd ..
+ 1045  sudo vim myfile.js
+ 1046  sudo vim test.html
+ 1047  sudo vim myfile.js 
+ 1048  wsl-open test.html
+ 1049  sudo vim myfile.js 
+ 1050  wsl-open test.html
+ 1051  sudo vim test.html
+ 1052  sudo vim myfile.js 
+ 1053  wsl-open test.html
+ 1054  sudo snap node isntall
+ 1055  sudo snap install node
+ 1056  curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+ 1057  sudo apt-get install -y nodejs
+ 1058  node
+ 1059  ls
+ 1060  node myfile.js
+ 1061  ls
+ 1062  cd js
+ 1063  ls
+ 1064  sudo vim first
+ 1065  cd fir
+ 1066  cd first/
+ 1067  ls
+ 1068  vim hello.js 
+ 1069  code
+ 1070  sudo apt install code
+ 1071  cd ..
+ 1072  ls
+ 1073  sudo vim myfile.js
+ 1074  sudo vim newfile.js
+ 1075  wsl-open newfile.js 
+ 1076  sudo vim test.html
+ 1077  wsl-open test.html
+ 1078  sudo vim newfile.js
+ 1079  wsl-open test.html
+ 1080  sudo vim newfile.js
+ 1081  code
+ 1082  gc
+ 1083  g
+ 1084  gcc
+ 1085  clear
+ 1086  vim hello.c
+ 1087  gcc hello.c
+ 1088  vim hello.c
+ 1089  gcc hello.c
+ 1090  ./a.out
+ 1091  vim hello.c
+ 1092  gcc hello.c
+ 1093  ./a.out
+ 1094  vim hello.c
+ 1095  gcc hello.c
+ 1096  ./a.out
+ 1097  whoami
+ 1098  ls
+ 1099  mkdir curry
+ 1100  mkdir learn
+ 1101  mv hawkes/ learn
+ 1102  sudo mv hawkes /learn
+ 1103  ls
+ 1104  mv hello.c curry/
+ 1105  mv myfile.js newfile.js hawkes/
+ 1106  ls
+ 1107  mv /curry/ /learn/
+ 1108  mv curry learn
+ 1109  sudo -s mv curry learn
+ 1110  sudo su
+ 1111  ls
+ 1112  vim test.html 
+ 1113  mv test.html learn
+ 1114  ls
+ 1115  cd js
+ 1116  ls
+ 1117  mv first ..
+ 1118  ls
+ 1119  cd ..
+ 1120  ls
+ 1121  mv first learn/curry
+ 1122  ls
+ 1123  cd learn
+ 1124  ls
+ 1125  grep newfile.js
+ 1126  grep "new"
+ 1127  ls
+ 1128  cd hawkes
+ 1129  ls
+ 1130  vim new
+ 1131  vim newfile.js 
+ 1132  grep "function" newfile.js 
+ 1133  grep "new" index.html 
+ 1134  cd ..
+ 1135  ls
+ 1136  cd curry
+ 1137  vim test.html
+ 1138  ls
+ 1139  cd ..
+ 1140  ls
+ 1141  vim test.html 
+ 1142  cd hawkes/
+ 1143  ls
+ 1144  cd ..
+ 1145  ls
+ 1146  mv test.html hawkes/
+ 1147  ls
+ 1148  cd ..
+ 1149  pwd
+ 1150  ls -a
+ 1151  vim main.cf
+ 1152  ls
+ 1153  vim main.cf
+ 1154  rm main.cf main.cf.old 
+ 1155  ls
+ 1156  g
+ 1157  ls
+ 1158  cd learn/
+ 1159  ls
+ 1160  cd curry
+ 1161  ls
+ 1162  echo "Hello World"
+ 1163  echo "Hello World" > output
+ 1164  ls
+ 1165  cat output
+ 1166  cat hello.c 
+ 1167  cat first/
+ 1168  echo "pizza" > output
+ 1169  cat output
+ 1170  echo "howdy" >> output
+ 1171  cat output
+ 1172  ls -la
+ 1173  ls -la > lsOutput
+ 1174  cat lsOutput 
+ 1175  history > bashHistory

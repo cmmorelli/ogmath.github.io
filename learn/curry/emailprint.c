@@ -63,7 +63,7 @@ int main(){
             \n\
             Your email address is %s.\n\
             This program was written in the VSCode Editor'\
-            | mutt %s -s 'C PROGRAM SOURCE' -a emailprint.c\
+            | mail %s -s 'C PROGRAM SOURCE' -a emailprint.c\
             ", email, email);
     
     /* Pass the sprintf buffer to the system function so the commands can execute. */
