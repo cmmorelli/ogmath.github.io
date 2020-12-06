@@ -12,7 +12,11 @@
 			<span>&#129497;&#127995;</span>OGMATH</a>
 		
 		<h1>Morelli Algebra 1 Notes</h1>
-		
+
+		Play The Little Cave Adventure: 
+		(currently you can only type look, go, and quit)
+		<script src="//onlinegdb.com/embed/js/H1s9R0Yow?theme=dark"></script>
+
 		<!--Top Links-->
 		
 		<p>Student Resources: <a href="https://student.works.kutasoftware.com" title="Kuta Works Student Login">Kuta</a> | <a href="https://youtube.com/c/AthenianStranger" title="Athenian Stranger YouTube Tutorial Videos">YouTube</a> | <a href="https://bit.ly/desmos-test-mode-chrome-app" title="Desmos Test Mode Chrome App Extension">Desmos</a>
