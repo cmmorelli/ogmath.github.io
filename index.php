@@ -15,7 +15,7 @@
 
 		Play The Little Cave Adventure: 
 		(currently you can only type look, go, and quit)
-		<script src="//onlinegdb.com/embed/js/H1s9R0Yow?theme=dark"></script>
+		<script src="//onlinegdb.com/embed/js/oTaCg_1Z9?theme=dark"></script>	
 
 		<!--Top Links-->
 		
